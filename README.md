@@ -14,7 +14,7 @@
     - With Static, Dynamic, Singly Linked, Doubly Linked, Circular Linked Implementations
 - **Sorting Algorithms**
     - Merge Sort, Quick Sort, Bubble Sort, Insertion Sort Implementations
-- **Hash Table**
+- **Hash Tables**
     - With Linear Probing & With Separate Chaining Implementations
 - **Graphs**
     - With Adjacency List Implementation
