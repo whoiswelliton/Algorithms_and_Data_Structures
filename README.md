@@ -24,6 +24,8 @@
 >### 3. Projects
 - **The Walking Dead**
 - **Duckter (Twitter from Pato Branco)**
+- **Graphs With Adjacency List Implementation**
+- **Graph Applications (Searching, Dijkstra, Prim)**
 ----
 >### 4. The Solving of some problems from:
 - **[SPOJ](https://www.spoj.com/) - Sphere Online Judge** 
